@@ -22,7 +22,11 @@ Float: left;
 height: 60px;
 width: 60px;
 }
-
+.weather-temperature unit {
+position: relative;
+font-size: 16px;
+top: -30;
+}
     .col-2 {
       border: 2px solid blueviolet;
       border-radius: 5px;
