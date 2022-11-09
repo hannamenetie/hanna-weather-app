@@ -22,6 +22,9 @@ Float: left;
 height: 60px;
 width: 60px;
 }
+.weather-temperature temp {
+font-size: 20px;
+}
 .weather-temperature unit {
 position: relative;
 font-size: 8px;
