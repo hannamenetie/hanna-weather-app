@@ -23,7 +23,7 @@ height: 60px;
 width: 60px;
 }
 .weather-temperature temp {
-font-size: 20px;
+font-size: 100px;
 }
 .weather-temperature unit {
 position: relative;
